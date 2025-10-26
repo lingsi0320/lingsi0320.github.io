@@ -19,7 +19,7 @@ body {
   font-family: 'Times New Proxima Nova', 'Helvetica Neue', sans-serif;
   background-color: var(--color1);
   color: var(--color6);
-  background-image: url('2.png');
+  background-image: url('jpg/2.png');
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
